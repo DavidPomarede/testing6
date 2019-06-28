@@ -1,0 +1,14 @@
+h1 {
+    background-color: #33ccff;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+#mapid { 
+    height: 280px;
+    width: 280px; 
+}
+
+body {
+    font-family: 'B612 Mono', monospace;
+}
